@@ -1,0 +1,11 @@
+invoice,Branch,City,CustomerType,ProductType,Price,Quantity,Total,Payment
+c1a3b6e2-98f1-4af1-9a3d-f5c9c78e21a1,A,Hyderabad,Member,Electronics,499.99,1,499.99,Credit Card
+d4f8c321-a2f5-4397-b2f3-a774dc6b12c0,B,Bengaluru,Normal,Grocery,89.50,3,268.50,Cash
+f8ae63d7-72c3-4c2d-ba01-e0a65a5dcaf9,A,Chennai,Member,Clothing,1299.00,2,2598.00,UPI
+a91c2372-82c1-4e36-a7e0-600e6fd5dcb4,C,Pune,Normal,Beverages,120.00,5,600.00,Debit Card
+be72d1e1-6bb3-4c41-98e4-0f712d6ca97d,B,Hyderabad,Member,Household,350.75,4,1403.00,Credit Card
+21f7a54d-266e-4ab8-a5a6-cba9f82e46dc,A,Chennai,Normal,Electronics,799.50,1,799.50,UPI
+9a4c6b3d-993f-4f50-ae1e-c50882cdbaf4,C,Bengaluru,Member,Clothing,749.00,3,2247.00,Cash
+3f5b0dd2-57c9-4a34-868d-b8cb0d96da2e,B,Pune,Normal,Grocery,45.25,10,452.50,Debit Card
+8e2d7c11-0b8c-4ff5-9002-01c109e2b52d,A,Hyderabad,Member,Toys,599.99,2,1199.98,UPI
+4c6f133b-47e9-4fea-a93d-32ecb6c0d0fb,C,Chennai,Normal,Household,999.00,1,999.00,Credit Card
